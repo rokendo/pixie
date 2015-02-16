@@ -1372,6 +1372,7 @@ button::-moz-focus-inner {
   bottom: 19px;
   overflow-x: hidden;
   overflow-y: scroll;
+  outline: 0;
 }
 .list-watcher-empty {
   position: absolute;
